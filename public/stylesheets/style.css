@@ -89,7 +89,7 @@ h4{
 }
 .footer{
   height: 40vh;
-  margin-bottom: 0;
+  margin-bottom: 0px;
   background-color: #ecf0f1 ; #f1f2f6
   background-size: cover;
 }
